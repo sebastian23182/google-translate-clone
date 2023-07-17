@@ -1,0 +1,2 @@
+# Google translate clone
+Google translate clone made with Typescript, React and the OpenAI ChatGPT 3.5-Turbo API, why AI? because AI is better in terms of translations than the original google translator.
